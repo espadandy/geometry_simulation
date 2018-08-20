@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andy/Programs/project_espada/src/convex_hull_scan.h
+vector
+-
+array
+-
+
+/Users/andy/Programs/project_espada/src/main.cpp
+iostream
+-
+convex_hull_scan.h
+/Users/andy/Programs/project_espada/src/convex_hull_scan.h
+
