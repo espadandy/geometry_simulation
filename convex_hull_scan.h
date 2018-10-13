@@ -8,6 +8,6 @@
 #ifndef SRC_CONVEX_HULL_SCAN_H
 #define SRC_CONVEX_HULL_SCAN_H
 
-void convex_hull_scan(std::vector<std::array<int,2>> points);
+void convex_hull_scan(std::vector<std::array<int,2>>& points);
 
 #endif //SRC_CONVEX_HULL_SCAN_H

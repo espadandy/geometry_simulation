@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libGeoCompute.a  CMakeFiles/GeoCompute.dir/convex_hull_scan.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libGeoCompute.a

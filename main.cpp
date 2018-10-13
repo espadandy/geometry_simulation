@@ -10,6 +10,11 @@ int main() {
             {1,0},
             {1,1}
     };
+
     convex_hull_scan(vec);
+
+    for (auto p: vec) {
+        std::cout << p[0] << ", " << p[1] << std::endl;
+    }
     return 0;
 }
